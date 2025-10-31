@@ -1,0 +1,11 @@
+exception:when error occuers at run time it called exception handling
+
+4 block:
+
+try:
+
+except:
+
+else:
+
+finnally

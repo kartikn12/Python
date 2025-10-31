@@ -1,0 +1,9 @@
+condition statement
+
+3. types
+1.normal
+2.ladder
+3.nested
+
+and oprator:must be all true
+or: any one condition true

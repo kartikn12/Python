@@ -1,0 +1,85 @@
+w   0
+e   1
+l   2
+c   3
+o   4
+m   5   
+e   6
+    7
+t   8
+o   9
+    10  
+p   11
+y   12
+t   13
+h   14
+o   15
+n   16
+
+5:15:3 -> mtph
+3::4 -> c po
+:14:2 ->wloet y
+::1 -> welcome to python
+9:17:1 -> o python
+
+s=python is best language
+p   0
+y   1
+t   2
+h   3
+o   4
+n   5
+    6
+i   7
+s   8
+    9
+b   10
+e   11
+s   12
+t   13
+    14
+l   15
+a   16
+n   17
+g   18
+u   19
+a   20
+g   21
+e   22
+
+2:21:3 ->tnse na
+12:22:4 -> saa
+:18:2->pto sbs a
+12::3   slgg
+0:16:1 -> python is best l
+
+s=python is best language
+p   -23
+y   -22
+t   -21
+h   -20
+o   -19
+n   -18
+    -17
+i   -16
+s   -15
+    -14
+b   -13
+e   -12
+s   -11
+t   -10
+    -9
+l   -8
+a   -7
+n   -6
+g   -5
+u   -4
+a   -3
+g   -2
+e   -1
+
+-22:-12:3   yoib
+-20:-5:3   h  sl
+::-1 
+-15::4  ssaa
+:-6:1 python is best la

@@ -1,0 +1,24 @@
+what is python?
+
+python is high level programming language
+interpretad multipurpose, open source,
+object-oriented language
+
+
+history of python
+1980 first thought
+1989 first structure
+20 feb 1991 first version by guido van rossume
+
+
+what is value:10,20,30,3.90,23.4,"hello",true
+
+what is variable: a=10,b=10.65
+-must be character
+-special character- @ # _
+
+what is datatype:
+
+primitive:int,float,string
+
+non primitive: array,tupple,list,set
