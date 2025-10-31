@@ -61,10 +61,6 @@ Code Editor: VS Code / PyCharm / IDLE
 
 ---
 
-### Optional:
-I can create a **banner image (`assets/banner.png`)** for your repository header (with your repo name *“Python Learning Hub by Kartik”* in a clean design).
-
-Would you like me to generate that banner image for you now?
 
 
 ## 🗺️ Learning Roadmap
