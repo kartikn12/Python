@@ -2,9 +2,8 @@
 
 # 🐍 Python Learning Hub  
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![Made with ❤️ by Kartik](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Kartik-orange)](https://github.com/kartikn12)
+[![Made by Kartik](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Kartik-orange)](https://github.com/kartikn12)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/kartikn12/Python/issues)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 
 Welcome to **Python Learning Hub**, a structured and hands-on collection of Python programs covering everything from beginner fundamentals to advanced programming concepts — all in one place! 🚀
 
