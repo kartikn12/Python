@@ -42,6 +42,22 @@ Welcome to **Python Learning Hub**, a structured and hands-on collection of Pyth
 
 ---
 
+🛠️ How to Use
+# Clone this repository
+git clone https://github.com/kartikn12/Python.git
+
+# Move into the project folder
+cd Python
+
+# Run any program
+python filename.py
+
+
+⚡ Requirements
+Python 3.8 or later
+
+Code Editor: VS Code / PyCharm / IDLE
+
 ## 🗺️ Learning Roadmap
 
 ```mermaid
@@ -55,14 +71,4 @@ F --> G(File Management)
 G --> H(GUI & Mini Projects)
 
 
-
-
-# Clone this repository
-git clone https://github.com/kartikn12/Python.git
-
-# Move into the project folder
-cd Python
-
-# Run any program
-python filename.py
 
