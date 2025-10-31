@@ -66,10 +66,10 @@ Code Editor: VS Code / PyCharm / IDLE
 ## 🗺️ Learning Roadmap
 
 ```mermaid
-graph TP
+graph LR
     A["<b>1️⃣ Basics</b>"] --> B["<b>2️⃣ Conditions & Loops</b>"]
     B --> C["<b>3️⃣ Functions & Arguments</b>"]
-    C --> D["<b>4️⃣ Data Structures</b>"]
+    C --> D["<b>4️⃣ RECURSION</b>"]
     D --> E["<b>5️⃣ OOP Concepts</b>"]
     E --> F["<b>6️⃣ Exception Handling</b>"]
     F --> G["<b>7️⃣ File Management</b>"]
