@@ -67,13 +67,17 @@ Code Editor: VS Code / PyCharm / IDLE
 
 ```mermaid
 graph LR
-A(Basics) --> B(Conditions & Loops)
-B --> C(Functions & Arguments)
-C --> D(Data Structures)
-D --> E(OOP Concepts)
-E --> F(Exception Handling)
-F --> G(File Management)
-G --> H(GUI & Mini Projects)
+    A["<b>1️⃣ Basics</b>"] --> B["<b>2️⃣ Conditions & Loops</b>"]
+    B --> C["<b>3️⃣ Functions & Arguments</b>"]
+    C --> D["<b>4️⃣ Data Structures</b>"]
+    D --> E["<b>5️⃣ OOP Concepts</b>"]
+    E --> F["<b>6️⃣ Exception Handling</b>"]
+    F --> G["<b>7️⃣ File Management</b>"]
+    G --> H["<b>8️⃣ GUI & Mini Projects</b>"]
+
+    %% Styling
+    classDef start fill:#4C8BF5,stroke:#fff,stroke-width:2px,color:#fff,font-weight:bold;
+    classDef middle fill:#2EA44F,stroke:#fff,stroke-width:1
 
 
 
