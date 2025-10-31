@@ -17,7 +17,7 @@ Welcome to **Python Learning Hub**, a structured and hands-on collection of Pyth
 ✅ Ideal for students, beginners, and interview prep
 
 ✅ There is one file in the task folder called all_task.py 
-find maximun programs task/all_task.py
+find maximun programs: task/all_task.py
 
 
 ---
