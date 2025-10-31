@@ -53,3 +53,16 @@ D --> E(OOP Concepts)
 E --> F(Exception Handling)
 F --> G(File Management)
 G --> H(GUI & Mini Projects)
+
+
+
+
+# Clone this repository
+git clone https://github.com/kartikn12/Python.git
+
+# Move into the project folder
+cd Python
+
+# Run any program
+python filename.py
+
