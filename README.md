@@ -1,6 +1,6 @@
 # Python
 
-# 🐍 Python Learning Hub  
+# 🐍 Python
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Made by Kartik](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Kartik-orange)](https://github.com/kartikn12)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/kartikn12/Python/issues)
